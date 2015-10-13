@@ -25,8 +25,8 @@ def copyTxtFile(s,d,m):
 #copyTxtFile("IOdemo.txt","dist.txt","r")
 copyTxtFile("pic.jpg","pic1.jpg","rb") 
 print(os.name)  
-os.rename('dist.txt', '111.txt')
-os.remove('111.txt')
+#os.rename('dist.txt', '111.txt')
+#os.remove('111.txt')
 
 
 
